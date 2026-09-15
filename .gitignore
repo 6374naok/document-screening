@@ -1,0 +1,10 @@
+.env
+.DS_Store
+step1_candidacies.json
+step_users.json
+.claude/settings.local.json
+
+# 社内の書類選考基準・評価ロジック（機密情報のためGit管理対象外。実行時にGoogleドライブ/ローカルファイルを直接参照する）
+criteria/社内基準.yaml
+criteria/社内基準.sync.json
+criteria/評価基準.xlsx
